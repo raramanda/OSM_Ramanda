@@ -1,0 +1,92 @@
+16:06:07.056 -> Connecting to Teknik_Elektro
+16:06:08.133 -> Connected to Teknik_Elektro network with IP Address: 172.20.10.13
+16:06:09.488 -> Http Code = 200
+16:06:09.488 -> Data OBS= 18725
+16:06:10.940 -> Http Code = 200
+16:06:10.940 -> DWarning = 7299270
+16:06:12.434 -> Http Code = 200
+16:06:12.482 -> DCounter = 25
+16:06:13.789 -> Http Code = 200
+16:06:13.789 -> DLimit = 7664234
+16:06:15.241 -> Http Code = 200
+16:06:15.241 -> DTime = 60
+
+16:06:16.610 -> Item count = 25
+16:06:16.610 -> OBS = 18750
+16:06:16.610 -> httpRequestData: api_key=tPmAT5Ab3j7F9&data=25&total=18750
+16:06:16.610 -> 
+16:06:18.716 -> HTTP Response code: 202
+16:06:20.173 -> Http Code = 200
+16:06:20.173 -> DTime = 60
+
+16:06:21.687 -> Item count = 50
+16:06:21.687 -> OBS = 18775
+16:06:21.687 -> httpRequestData: api_key=tPmAT5Ab3j7F9&data=50&total=18775
+16:06:21.687 -> 3
+16:06:22.109 -> HTTP Response code: 202
+16:06:23.698 -> Http Code = 200
+16:06:23.698 -> DTime = 60
+
+16:06:24.738 -> Item count = 75
+16:06:24.738 -> OBS = 18800
+16:06:24.738 -> httpRequestData: api_key=tPmAT5Ab3j7F9&data=75&total=18800
+16:06:24.738 -> 
+16:06:26.290 -> HTTP Response code: 202
+16:06:28.212 -> Http Code = 200
+16:06:28.212 -> DTime = 60
+
+16:06:29.585 -> Item count = 100
+16:06:29.585 -> OBS = 18825
+16:06:29.585 -> httpRequestData: api_key=tPmAT5Ab3j7F9&data=100&total=18825
+16:06:29.585 -> 
+16:06:30.193 -> HTTP Response code: 202
+16:06:32.020 -> Http Code = 200
+16:06:32.020 -> DTime = 60
+
+16:06:33.298 -> Item count = 125
+16:06:33.298 -> OBS = 18850
+16:06:33.298 -> httpRequestData: api_key=tPmAT5Ab3j7F9&data=125&total=18850
+16:06:33.298 -> 
+16:06:35.601 -> HTTP Response code: 202
+16:06:37.424 -> Http Code = 200
+16:06:37.424 -> DTime = 60
+
+16:06:38.844 -> Item count = 150
+16:06:38.844 -> OBS = 18875
+16:06:38.844 -> httpRequestData: api_key=tPmAT5Ab3j7F9&data=150&total=18875
+16:06:38.844 -> 
+16:06:40.716 -> HTTP Response code: 202
+16:06:43.902 -> Http Code = 200
+16:06:43.902 -> DTime = 60
+
+16:06:44.942 -> Item count = 175
+16:06:44.942 -> OBS = 18900
+16:06:44.942 -> httpRequestData: api_key=tPmAT5Ab3j7F9&data=175&total=18900
+16:06:44.942 -> 
+16:06:45.130 -> HTTP Response code: 202
+16:06:46.963 -> Http Code = 200
+16:06:46.963 -> DTime = 60
+
+16:06:48.047 -> Item count = 200
+16:06:48.047 -> OBS = 18925
+16:06:48.047 -> httpRequestData: api_key=tPmAT5Ab3j7F9&data=200&total=18925
+16:06:48.047 -> 
+16:06:48.421 -> HTTP Response code: 202
+16:06:50.249 -> Http Code = 200
+16:06:50.249 -> DTime = 60
+
+16:06:51.481 -> Item count = 225
+16:06:51.481 -> OBS = 18950
+16:06:51.481 -> httpRequestData: api_key=tPmAT5Ab3j7F9&data=225&total=18950
+16:06:51.481 -> 
+16:06:51.714 -> HTTP Response code: 202
+16:06:53.403 -> Http Code = 200
+16:06:53.403 -> DTime = 60
+
+16:06:54.868 -> Item count = 250
+16:06:54.868 -> OBS = 18975
+16:06:54.868 -> httpRequestData: api_key=tPmAT5Ab3j7F9&data=250&total=18975
+16:06:54.868 -> 
+16:06:55.149 -> HTTP Response code: 202
+16:06:56.983 -> Http Code = 200
+16:06:56.983 -> DTime = 60
